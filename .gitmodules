@@ -1,0 +1,6 @@
+[submodule "katalog-backend"]
+	path = katalog-backend
+	url = https://github.com/deedeemaan/katalog-backend
+[submodule "katalog"]
+	path = katalog
+	url = https://github.com/deedeemaan/katalog
